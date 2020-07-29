@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Resourceful
+* *Very* reliable
+* **Time management**
+* ***Honest* and *Friendly***
+* **Programming** in *Java*, *Python*, *R*, and *Matlab*
