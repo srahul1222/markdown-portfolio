@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Myself (Rahul Swaminathan)](https://media-exp1.licdn.com/dms/image/C4D03AQGD144eRNSeEQ/profile-displayphoto-shrink_400_400/0?e=1601510400&v=beta&t=YYgz_OUf0qRaiaPusrq-K9cYW8Ic7Pqne3SVcjLEdgY)
